@@ -1,0 +1,6 @@
+.ORIG X3000
+TRAP x20
+HALT
+.END
+
+
