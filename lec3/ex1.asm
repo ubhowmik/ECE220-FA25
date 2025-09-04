@@ -37,8 +37,8 @@ BRNZP LOOP2
 DONE
 HALT
 
-START_ADD .FILL X4000
-END_ADD .FILL X4003
+START_ADD .FILL X5000
+END_ADD .FILL X5003
 ASCII .FILL X30
 ;----------------------PUSH/POP-----------------------------
 ;IN:R0, OUT:R5 (0-success, 1-fail/overflow)
