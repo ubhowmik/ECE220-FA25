@@ -43,7 +43,7 @@ void quickSortIterative(int arr[], int l, int h)
 
     // initialize top of stack
     int top = h-l+1; // top is used as stack pointer
-    int tos=h-l+1;  // TOS holds top of the stack
+    int tos=h-l+1;  // tos holds top of the stack
 
     // push initial values of l and h to stack
     stack[--top] = l;
