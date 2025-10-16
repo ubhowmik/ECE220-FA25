@@ -1,0 +1,7 @@
+netID    UIN   GPA
+abc1     10    3.5
+bcd2     11    4.0
+abb3     12    3.1
+dad2     13    3.25
+luk2     14    3.01
+
